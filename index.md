@@ -62,7 +62,7 @@ displayed if the 'eventbrite' field in the header is not set.
 <div id="humanitix-container">
   <h2>Registration</h2>
   <p>
-    Registration for this workshop can be found <a href={{page.humanitix}}>at this link.</a>
+    Registration for this workshop can be found <a href='{{page.humanitix}}'>at this link.</a>
   </p>
 </div>
 
